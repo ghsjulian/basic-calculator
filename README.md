@@ -20,7 +20,7 @@
 
 #### Developer Email : <a href="email:ghsjulian@outlook.com" target="_blank"> ghsjulian@outlook.com </a>
 
-#### Live Demo : <a href="" target="_blank">View Demo </a>
+#### Live Demo : <a href="https://ghsjulian.github.io/basic-calculator" target="_blank">View Demo </a>
 
 #### Start Date : 14 June 2025
 
